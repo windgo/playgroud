@@ -14,6 +14,8 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        @IBAction func onSearch(sender: AnyObject) {
+        }
         // Do any additional setup after loading the view, typically from a nib.
         let button=UIButton(frame: CGRectMake(0, 0, UIScreen.mainScreen().bounds.size.width, 44))
         button.backgroundColor=UIColor.blueColor()

@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:TestSearchMap/TestSearchMap.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:&#x6d4b;&#x8bd5;toolbar&#x589e;&#x52a0;&#x5b50;&#x89c6;&#x56fe;/&#x6d4b;&#x8bd5;toolbar&#x589e;&#x52a0;&#x5b50;&#x89c6;&#x56fe;.xcodeproj">
    </FileRef>
 </Workspace>
